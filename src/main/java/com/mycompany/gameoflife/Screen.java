@@ -1,6 +1,6 @@
 package com.mycompany.gameoflife;
 
-import com.mycompany.gameoflife.gameRules.Rule;
+import com.mycompany.gameoflife.gameInfo.Rules;
 import javax.swing.JFrame;
 
 public class Screen {

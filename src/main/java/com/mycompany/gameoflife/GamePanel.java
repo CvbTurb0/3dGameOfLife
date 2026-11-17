@@ -20,9 +20,13 @@ public class GamePanel extends JPanel {
         this.setFocusable(true);
         this.requestFocusInWindow();
     }
-    public void paintComponent(Graphics g){
+    
+    
+    public void paintComponent(Graphics g){ //Everything should be painted in here
         super.paintComponent(g);
         Graphics2D g2 = (Graphics2D)g;
+        
+        
     }
     
 }
